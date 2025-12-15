@@ -59,8 +59,9 @@ These are the dimensions.
 
 * I am using a **Computer PSU.** As its cheap, safe (if you know what you are doing) and can provide plenty of power. You can use a 5v 4-6 amp supply if you are unsure
 <img width="959" height="1280" alt="image" src="https://github.com/user-attachments/assets/62288413-2d37-41c3-b73b-ea3480233364" />
+
 These were my observations test ours before connecting no guarantees.
-* LEDs run on **5V**
+* LEDs run on **5V**.
 * ESP8266 runs on **3.3V** (do NOT power directly from 5V)
 * Ensure a **common ground** between ESP8266 and LEDs
 * Place capacitors **close to the ESP8266 VCC pin** to avoid Wi‑Fi brownouts
@@ -134,6 +135,10 @@ Example:
 
 * Mount LEDs along the star edges using the adhesives tape.
 * <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/a879f8d3-57c3-4865-b970-412d639721dc" />
+
+* The wiring diagram
+![circuit star](https://github.com/user-attachments/assets/85cebf6a-668f-4288-9c43-2ba47196b356)
+
 
 * Route wires cleanly
 * Secure ESP8266 and power modules
