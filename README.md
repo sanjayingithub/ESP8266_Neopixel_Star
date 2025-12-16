@@ -46,12 +46,8 @@ This project aims to provide an **affordable, high‑quality, and customizable a
 * **5V power supply** 
 * Wire using **20 AWG** for connecting between **psu and led strip**. 
   Use **24-22 AWG** wire for **esp buck modue**.
-* **Frame** I am using a frame from an old star. You could also create our own. 
-<img width="919" height="1280" alt="image" src="https://github.com/user-attachments/assets/77a81c9b-2407-4b81-8432-944753c8c5bb" />
-<img width="921" height="1280" alt="image" src="https://github.com/user-attachments/assets/6af6255f-e82b-43f2-8bd8-8c72d6151ccd" />
-<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/bebd35d4-d2d0-41d7-be1f-19ed0a60445c" />
-
-These are the dimensions.
+* **Frame** I am using a frame from an old star. You could also create our own.
+* <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/bebd35d4-d2d0-41d7-be1f-19ed0a60445c" />
 
 ---
 
